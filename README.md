@@ -1,4 +1,4 @@
-🔭 I'm currently working on Singular Studio<br>👯 I'm looking to collaborate on Java projects<br>🌱 I'm currently studying for java 11 certification
+🔭 I'm currently working with Java 11 in framework Spring<br>👯 I'm looking to collaborate on Java projects<br>🌱 I'm currently studying for java 11 certification
 
 
 ## 🌐 Socials:
