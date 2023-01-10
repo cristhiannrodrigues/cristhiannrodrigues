@@ -1,6 +1,6 @@
 🔭 I'm currently working with Java 11 in framework Spring<br>👯 I'm looking to collaborate on Java projects<br>🌱 I'm currently studying for java 11 certification
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/cristhiannrodrigues/cristhiannrodrigues/main/devcard.svg" width="400" alt="Cristhiann Rodrigues's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/cristhiannrodrigues/cristhiannrodrigues/devcard.svg" width="400" alt="Cristhiann Rodrigues's Dev Card"/></a>
 
 
 ## 🌐 Socials:
