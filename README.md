@@ -1,8 +1,5 @@
 🔭 I'm currently working with Java 11 in framework Spring<br>👯 I'm looking to collaborate on Java projects<br>🌱 I'm currently studying for java 11 certification
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/cristhiannrodrigues/cristhiannrodrigues/blob/main/devcard.svg" width="400" alt="Cristhiann Rodrigues's Dev Card"/></a>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristhiannr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristhiannrodrigues) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/cristhiannrodrigues) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cristhiannrodrigues) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/coffee4devs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQq8x1xws3jWY28fK2mbNxg) 
 
